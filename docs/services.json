@@ -1,0 +1,32 @@
+{
+    "groomers":[
+    {
+        "name":"Big Pet Groomers",
+        "location": "123 Last Street",
+        "bio": "A place where we groom big pets",
+        "image": "images/BobaYawn.jpg",
+        "alt": "Yawning cat"
+    },
+    {
+        "name":"Little Pet Groomers",
+        "location": "321 First Street",
+        "bio": "A place where we groom little pets",
+        "image": "images/BobaDrool.jpg",
+        "alt": "Drooling cat"
+    },
+    {
+        "name":"Sweet Pet Groomers",
+        "location": "566 First Street",
+        "bio": "A place where we groom sweet pets",
+        "image": "images/BobaLick.jpg",
+        "alt": "Licking cat"
+    },
+    {
+        "name":"Tiny Pet Groomers",
+        "location": "777 Big Street",
+        "bio": "A place where we groom tiny pets",
+        "image": "images/Motorcycle Cat.jpg",
+        "alt": "Motorcycle cat"
+    }
+    
+]}

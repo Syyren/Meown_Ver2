@@ -1,0 +1,35 @@
+<services>
+
+    <pethotel>
+    <name>Big Pet Hotel</name>
+    <location>123 Last Street</location>
+    <bio>A place where you can bring your big pets</bio>
+    <image>images/BobaYawn.jpg</image>
+    <alt>Yawning cat</alt>
+    </pethotel>
+
+    <pethotel>
+    <name>Little Pet Hotel</name>
+    <location>321 First Street</location>
+    <bio>A place where you can bring your little pets</bio>
+    <image>images/BobaDrool.jpg</image>
+    <alt>Drooling cat</alt>
+    </pethotel>
+
+    <pethotel>
+    <name>Sweet Pet Hotel</name>
+    <location>566 First Street</location>
+    <bio>A place where you can bring your little pets</bio>
+    <image>images/BobaLick.jpg</image>
+    <alt>Licking cat</alt>
+    </pethotel>
+
+    <pethotel>
+    <name>Tiny Pet Hotel</name>
+    <location>777 Big Street</location>
+    <bio>A place where you can bring your little pets</bio>
+    <image>images/Motorcycle Cat.jpg</image>
+    <alt>Motorcycle cat</alt>
+    </pethotel>
+    
+</services>
