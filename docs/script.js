@@ -19,19 +19,16 @@ function changeView() {
     {
         $(a).hide();
         $(b).show();
-        $(title).text('Pet Hotels');
     }
     else if ($(b).is(':visible'))
     {
         $(b).hide();
         $(c).show();
-        $(title).text('Pet Day Camps');
     }
     else
     {
         $(c).hide();
         $(a).show();
-        $(title).text('Pet Groomers');
     }
 };
 
